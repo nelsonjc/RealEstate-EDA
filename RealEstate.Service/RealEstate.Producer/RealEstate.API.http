@@ -1,0 +1,6 @@
+@RealEstate.Producer_HostAddress = http://localhost:5191
+
+GET {{RealEstate.Producer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
